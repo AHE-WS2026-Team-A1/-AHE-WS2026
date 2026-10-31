@@ -1,0 +1,15 @@
+
+#include "xil_printf.h"
+
+int main(void)
+{
+    xil_printf("Echo test: type a character\r\n");
+
+    while (1)
+    {
+        char c = inbyte();
+        xil_printf("You typed: %c\r\n", c);
+    }
+
+    return 0;
+}
