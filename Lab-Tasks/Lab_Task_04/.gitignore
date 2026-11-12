@@ -1,0 +1,30 @@
+# ---- Vivado generated files ----
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.ioplanning/
+*.srcs/utils_1/
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.*
+*.dcp
+
+# ---- Vitis generated files ----
+_ide/
+build/
+platform/
+.rigel_lopper/
+compile_commands.json
+.clangd
+
+# ---- Windows ----
+Thumbs.db
+desktop.ini
+
+# Keep the bitstreams of this lab (they are deliverables)
+!bitstreams/*.bit
