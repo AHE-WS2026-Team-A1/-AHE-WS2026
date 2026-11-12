@@ -1,1 +1,1 @@
-tgese are the files related to vivado which are required.
+These are the files related to vivado which are required.
