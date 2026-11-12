@@ -1,0 +1,337 @@
+Lab 04: partial reconfiguration demo
+loaded: RM A (pass-through)   in=0000 out=0000
+loaded: RM A (pass-through)   in=0001 out=0001
+loaded: RM A (pass-through)   in=0002 out=0002
+loaded: RM A (pass-through)   in=0003 out=0003
+loaded: RM A (pass-through)   in=0004 out=0004
+loaded: RM A (pass-through)   in=0005 out=0005
+loaded: RM A (pass-through)   in=0006 out=0006
+loaded: RM A (pass-through)   in=0007 out=0007
+loaded: RM A (pass-through)   in=0008 out=0008
+loaded: RM A (pass-through)   in=0009 out=0009
+loaded: RM A (pass-through)   in=000A out=000A
+loaded: RM A (pass-through)   in=000B out=000B
+loaded: RM A (pass-through)   in=000C out=000C
+loaded: RM A (pass-through)   in=000D out=000D
+loaded: RM A (pass-through)   in=000E out=000E
+loaded: RM A (pass-through)   in=000F out=000F
+loaded: RM A (pass-through)   in=0010 out=0010
+loaded: RM A (pass-through)   in=0011 out=0011
+loaded: RM A (pass-through)   in=0012 out=0012
+loaded: RM A (pass-through)   in=0013 out=0013
+loaded: RM A (pass-through)   in=0014 out=0014
+loaded: RM A (pass-through)   in=0015 out=0015
+loaded: RM A (pass-through)   in=0016 out=0016
+loaded: RM A (pass-through)   in=0017 out=0017
+loaded: RM A (pass-through)   in=0018 out=0018
+loaded: RM A (pass-through)   in=0019 out=0019
+loaded: RM A (pass-through)   in=001A out=001A
+loaded: RM A (pass-through)   in=001B out=001B
+loaded: RM A (pass-through)   in=001C out=001C
+loaded: RM A (pass-through)   in=001D out=001D
+loaded: RM A (pass-through)   in=001E out=001E
+loaded: RM A (pass-through)   in=001F out=001F
+loaded: RM A (pass-through)   in=0020 out=0020
+loaded: RM A (pass-through)   in=0021 out=0021
+loaded: RM A (pass-through)   in=0022 out=0022
+loaded: RM A (pass-through)   in=0023 out=0023
+loaded: RM A (pass-through)   in=0024 out=0024
+loaded: RM A (pass-through)   in=0025 out=0025
+loaded: RM A (pass-through)   in=0026 out=0026
+loaded: RM A (pass-through)   in=0027 out=0027
+loaded: RM A (pass-through)   in=0028 out=0028
+loaded: RM A (pass-through)   in=0029 out=0029
+loaded: RM A (pass-through)   in=002A out=002A
+loaded: RM A (pass-through)   in=002B out=002B
+loaded: RM A (pass-through)   in=002C out=002C
+loaded: RM A (pass-through)   in=002D out=002D
+loaded: RM A (pass-through)   in=002E out=002E
+loaded: RM A (pass-through)   in=002F out=002F
+loaded: RM A (pass-through)   in=0030 out=0030
+loaded: RM A (pass-through)   in=0031 out=0031
+loaded: RM A (pass-through)   in=0032 out=0032
+loaded: RM A (pass-through)   in=0033 out=0033
+loaded: RM A (pass-through)   in=0034 out=0034
+loaded: RM A (pass-through)   in=0035 out=0035
+loaded: RM A (pass-through)   in=0036 out=0036
+loaded: RM A (pass-through)   in=0037 out=0037
+loaded: RM A (pass-through)   in=0038 out=0038
+loaded: RM A (pass-through)   in=0039 out=0039
+loaded: RM A (pass-through)   in=003A out=003A
+loaded: RM A (pass-through)   in=003B out=003B
+loaded: RM A (pass-through)   in=003C out=003C
+loaded: RM A (pass-through)   in=003D out=003D
+loaded: RM A (pass-through)   in=003E out=003E
+loaded: RM A (pass-through)   in=003F out=003F
+loaded: RM A (pass-through)   in=0040 out=0040
+loaded: RM A (pass-through)   in=0041 out=0041
+loaded: RM A (pass-through)   in=0042 out=0042
+loaded: RM A (pass-through)   in=0043 out=0043
+loaded: RM A (pass-through)   in=0044 out=0044
+loaded: RM A (pass-through)   in=0045 out=0045
+loaded: RM A (pass-through)   in=0046 out=0046
+loaded: RM A (pass-through)   in=0047 out=0047
+loaded: RM A (pass-through)   in=0048 out=0048
+loaded: RM A (pass-through)   in=0049 out=0049
+loaded: RM A (pass-through)   in=004A out=004A
+loaded: unknown   in=004B out=4CCE
+loaded: unknown   in=004C out=FFCF
+loaded: RM B (invert)   in=004D out=FFB2
+loaded: RM B (invert)   in=004E out=FFB1
+loaded: RM B (invert)   in=004F out=FFB0
+loaded: RM B (invert)   in=0050 out=FFAF
+loaded: RM B (invert)   in=0051 out=FFAE
+loaded: RM B (invert)   in=0052 out=FFAD
+loaded: RM B (invert)   in=0053 out=FFAC
+loaded: RM B (invert)   in=0054 out=FFAB
+loaded: RM B (invert)   in=0055 out=FFAA
+loaded: RM B (invert)   in=0056 out=FFA9
+loaded: RM B (invert)   in=0057 out=FFA8
+loaded: RM B (invert)   in=0058 out=FFA7
+loaded: RM B (invert)   in=0059 out=FFA6
+loaded: RM B (invert)   in=005A out=FFA5
+loaded: RM B (invert)   in=005B out=FFA4
+loaded: RM B (invert)   in=005C out=FFA3
+loaded: RM B (invert)   in=005D out=FFA2
+loaded: RM B (invert)   in=005E out=FFA1
+loaded: RM B (invert)   in=005F out=FFA0
+loaded: RM B (invert)   in=0060 out=FF9F
+loaded: RM B (invert)   in=0061 out=FF9E
+loaded: RM B (invert)   in=0062 out=FF9D
+loaded: RM B (invert)   in=0063 out=FF9C
+loaded: RM B (invert)   in=0064 out=FF9B
+loaded: RM B (invert)   in=0065 out=FF9A
+loaded: RM B (invert)   in=0066 out=FF99
+loaded: RM B (invert)   in=0067 out=FF98
+loaded: RM B (invert)   in=0068 out=FF97
+loaded: RM B (invert)   in=0069 out=FF96
+loaded: RM B (invert)   in=006A out=FF95
+loaded: RM B (invert)   in=006B out=FF94
+loaded: RM B (invert)   in=006C out=FF93
+loaded: RM B (invert)   in=006D out=FF92
+loaded: RM B (invert)   in=006E out=FF91
+loaded: RM B (invert)   in=006F out=FF90
+loaded: RM B (invert)   in=0070 out=FF8F
+loaded: RM B (invert)   in=0071 out=FF8E
+loaded: RM B (invert)   in=0072 out=FF8D
+loaded: RM B (invert)   in=0073 out=FF8C
+loaded: RM B (invert)   in=0074 out=FF8B
+loaded: RM B (invert)   in=0075 out=FF8A
+loaded: RM B (invert)   in=0076 out=FF89
+loaded: RM B (invert)   in=0077 out=FF88
+loaded: RM B (invert)   in=0078 out=FF87
+loaded: RM B (invert)   in=0079 out=FF86
+loaded: RM B (invert)   in=007A out=FF85
+loaded: RM B (invert)   in=007B out=FF84
+loaded: RM B (invert)   in=007C out=FF83
+loaded: RM B (invert)   in=007D out=FF82
+loaded: RM B (invert)   in=007E out=FF81
+loaded: RM B (invert)   in=007F out=FF80
+loaded: RM B (invert)   in=0080 out=FF7F
+loaded: RM B (invert)   in=0081 out=FF7E
+loaded: RM B (invert)   in=0082 out=FF7D
+loaded: RM B (invert)   in=0083 out=FF7C
+loaded: RM B (invert)   in=0084 out=FF7B
+loaded: RM B (invert)   in=0085 out=FF7A
+loaded: RM B (invert)   in=0086 out=FF79
+loaded: RM B (invert)   in=0087 out=FF78
+loaded: RM B (invert)   in=0088 out=FF77
+loaded: RM B (invert)   in=0089 out=FF76
+loaded: RM B (invert)   in=008A out=FF75
+loaded: RM B (invert)   in=008B out=FF74
+loaded: RM B (invert)   in=008C out=FF73
+loaded: RM B (invert)   in=008D out=FF72
+loaded: RM B (invert)   in=008E out=FF71
+loaded: RM B (invert)   in=008F out=FF70
+loaded: RM B (invert)   in=0090 out=FF6F
+loaded: RM B (invert)   in=0091 out=FF6E
+loaded: RM B (invert)   in=0092 out=FF6D
+loaded: RM B (invert)   in=0093 out=FF6C
+loaded: RM B (invert)   in=0094 out=FF6B
+loaded: RM B (invert)   in=0095 out=FF6A
+loaded: RM B (invert)   in=0096 out=FF69
+loaded: RM B (invert)   in=0097 out=FF68
+loaded: RM B (invert)   in=0098 out=FF67
+loaded: RM B (invert)   in=0099 out=FF66
+loaded: RM B (invert)   in=009A out=FF65
+loaded: RM B (invert)   in=009B out=FF64
+loaded: RM B (invert)   in=009C out=FF63
+loaded: RM B (invert)   in=009D out=FF62
+loaded: RM B (invert)   in=009E out=FF61
+loaded: RM B (invert)   in=009F out=FF60
+loaded: RM B (invert)   in=00A0 out=FF5F
+loaded: RM B (invert)   in=00A1 out=FF5E
+loaded: RM B (invert)   in=00A2 out=FF5D
+loaded: RM B (invert)   in=00A3 out=FF5C
+loaded: RM B (invert)   in=00A4 out=FF5B
+loaded: RM B (invert)   in=00A5 out=FF5A
+loaded: RM B (invert)   in=00A6 out=FF59
+loaded: RM B (invert)   in=00A7 out=FF58
+loaded: RM B (invert)   in=00A8 out=FF57
+loaded: unknown   in=00A9 out=FFF7
+loaded: unknown   in=00AA out=D7FF
+loaded: RM C (swap bytes)   in=00AB out=AB00
+loaded: RM C (swap bytes)   in=00AC out=AC00
+loaded: RM C (swap bytes)   in=00AD out=AD00
+loaded: RM C (swap bytes)   in=00AE out=AE00
+loaded: RM C (swap bytes)   in=00AF out=AF00
+loaded: RM C (swap bytes)   in=00B0 out=B000
+loaded: RM C (swap bytes)   in=00B1 out=B100
+loaded: RM C (swap bytes)   in=00B2 out=B200
+loaded: RM C (swap bytes)   in=00B3 out=B300
+loaded: RM C (swap bytes)   in=00B4 out=B400
+loaded: RM C (swap bytes)   in=00B5 out=B500
+loaded: RM C (swap bytes)   in=00B6 out=B600
+loaded: RM C (swap bytes)   in=00B7 out=B700
+loaded: RM C (swap bytes)   in=00B8 out=B800
+loaded: RM C (swap bytes)   in=00B9 out=B900
+loaded: RM C (swap bytes)   in=00BA out=BA00
+loaded: RM C (swap bytes)   in=00BB out=BB00
+loaded: RM C (swap bytes)   in=00BC out=BC00
+loaded: RM C (swap bytes)   in=00BD out=BD00
+loaded: RM C (swap bytes)   in=00BE out=BE00
+loaded: RM C (swap bytes)   in=00BF out=BF00
+loaded: RM C (swap bytes)   in=00C0 out=C000
+loaded: RM C (swap bytes)   in=00C1 out=C100
+loaded: RM C (swap bytes)   in=00C2 out=C200
+loaded: RM C (swap bytes)   in=00C3 out=C300
+loaded: RM C (swap bytes)   in=00C4 out=C400
+loaded: RM C (swap bytes)   in=00C5 out=C500
+loaded: RM C (swap bytes)   in=00C6 out=C600
+loaded: RM C (swap bytes)   in=00C7 out=C700
+loaded: RM C (swap bytes)   in=00C8 out=C800
+loaded: RM C (swap bytes)   in=00C9 out=C900
+loaded: RM C (swap bytes)   in=00CA out=CA00
+loaded: RM C (swap bytes)   in=00CB out=CB00
+loaded: RM C (swap bytes)   in=00CC out=CC00
+loaded: RM C (swap bytes)   in=00CD out=CD00
+loaded: RM C (swap bytes)   in=00CE out=CE00
+loaded: RM C (swap bytes)   in=00CF out=CF00
+loaded: RM C (swap bytes)   in=00D0 out=D000
+loaded: RM C (swap bytes)   in=00D1 out=D100
+loaded: RM C (swap bytes)   in=00D2 out=D200
+loaded: RM C (swap bytes)   in=00D3 out=D300
+loaded: RM C (swap bytes)   in=00D4 out=D400
+loaded: RM C (swap bytes)   in=00D5 out=D500
+loaded: RM C (swap bytes)   in=00D6 out=D600
+loaded: RM C (swap bytes)   in=00D7 out=D700
+loaded: RM C (swap bytes)   in=00D8 out=D800
+loaded: RM C (swap bytes)   in=00D9 out=D900
+loaded: RM C (swap bytes)   in=00DA out=DA00
+loaded: RM C (swap bytes)   in=00DB out=DB00
+loaded: RM C (swap bytes)   in=00DC out=DC00
+loaded: RM C (swap bytes)   in=00DD out=DD00
+loaded: RM C (swap bytes)   in=00DE out=DE00
+loaded: RM C (swap bytes)   in=00DF out=DF00
+loaded: RM C (swap bytes)   in=00E0 out=E000
+loaded: RM C (swap bytes)   in=00E1 out=E100
+loaded: RM C (swap bytes)   in=00E2 out=E200
+loaded: RM C (swap bytes)   in=00E3 out=E300
+loaded: RM C (swap bytes)   in=00E4 out=E400
+loaded: RM C (swap bytes)   in=00E5 out=E500
+loaded: RM C (swap bytes)   in=00E6 out=E600
+loaded: RM C (swap bytes)   in=00E7 out=E700
+loaded: RM C (swap bytes)   in=00E8 out=E800
+loaded: RM C (swap bytes)   in=00E9 out=E900
+loaded: RM C (swap bytes)   in=00EA out=EA00
+loaded: RM C (swap bytes)   in=00EB out=EB00
+loaded: RM C (swap bytes)   in=00EC out=EC00
+loaded: RM C (swap bytes)   in=00ED out=ED00
+loaded: RM C (swap bytes)   in=00EE out=EE00
+loaded: RM C (swap bytes)   in=00EF out=EF00
+loaded: RM C (swap bytes)   in=00F0 out=F000
+loaded: RM C (swap bytes)   in=00F1 out=F100
+loaded: RM C (swap bytes)   in=00F2 out=F200
+loaded: RM C (swap bytes)   in=00F3 out=F300
+loaded: RM C (swap bytes)   in=00F4 out=F400
+loaded: RM C (swap bytes)   in=00F5 out=F500
+loaded: RM C (swap bytes)   in=00F6 out=F600
+loaded: RM C (swap bytes)   in=00F7 out=F700
+loaded: RM C (swap bytes)   in=00F8 out=F800
+loaded: RM C (swap bytes)   in=00F9 out=F900
+loaded: RM C (swap bytes)   in=00FA out=FA00
+loaded: RM C (swap bytes)   in=00FB out=FB00
+loaded: RM C (swap bytes)   in=00FC out=FC00
+loaded: RM C (swap bytes)   in=00FD out=FD00
+loaded: unknown   in=00FE out=FDF7
+loaded: RM A (pass-through)   in=00FF out=00FF
+loaded: RM A (pass-through)   in=0100 out=0100
+loaded: RM A (pass-through)   in=0101 out=0101
+loaded: RM A (pass-through)   in=0102 out=0102
+loaded: RM A (pass-through)   in=0103 out=0103
+loaded: RM A (pass-through)   in=0104 out=0104
+loaded: RM A (pass-through)   in=0105 out=0105
+loaded: RM A (pass-through)   in=0106 out=0106
+loaded: RM A (pass-through)   in=0107 out=0107
+loaded: RM A (pass-through)   in=0108 out=0108
+loaded: RM A (pass-through)   in=0109 out=0109
+loaded: RM A (pass-through)   in=010A out=010A
+loaded: RM A (pass-through)   in=010B out=010B
+loaded: RM A (pass-through)   in=010C out=010C
+loaded: RM A (pass-through)   in=010D out=010D
+loaded: RM A (pass-through)   in=010E out=010E
+loaded: RM A (pass-through)   in=010F out=010F
+loaded: RM A (pass-through)   in=0110 out=0110
+loaded: RM A (pass-through)   in=0111 out=0111
+loaded: RM A (pass-through)   in=0112 out=0112
+loaded: RM A (pass-through)   in=0113 out=0113
+loaded: RM A (pass-through)   in=0114 out=0114
+loaded: RM A (pass-through)   in=0115 out=0115
+loaded: RM A (pass-through)   in=0116 out=0116
+loaded: RM A (pass-through)   in=0117 out=0117
+loaded: RM A (pass-through)   in=0118 out=0118
+loaded: RM A (pass-through)   in=0119 out=0119
+loaded: RM A (pass-through)   in=011A out=011A
+loaded: RM A (pass-through)   in=011B out=011B
+loaded: RM A (pass-through)   in=011C out=011C
+loaded: RM A (pass-through)   in=011D out=011D
+loaded: RM A (pass-through)   in=011E out=011E
+loaded: RM A (pass-through)   in=011F out=011F
+loaded: RM A (pass-through)   in=0120 out=0120
+loaded: RM A (pass-through)   in=0121 out=0121
+loaded: RM A (pass-through)   in=0122 out=0122
+loaded: RM A (pass-through)   in=0123 out=0123
+loaded: RM A (pass-through)   in=0124 out=0124
+loaded: RM A (pass-through)   in=0125 out=0125
+loaded: RM A (pass-through)   in=0126 out=0126
+loaded: RM A (pass-through)   in=0127 out=0127
+loaded: RM A (pass-through)   in=0128 out=0128
+loaded: RM A (pass-through)   in=0129 out=0129
+loaded: RM A (pass-through)   in=012A out=012A
+loaded: RM A (pass-through)   in=012B out=012B
+loaded: RM A (pass-through)   in=012C out=012C
+loaded: RM A (pass-through)   in=012D out=012D
+loaded: RM A (pass-through)   in=012E out=012E
+loaded: RM A (pass-through)   in=012F out=012F
+loaded: RM A (pass-through)   in=0130 out=0130
+loaded: RM A (pass-through)   in=0131 out=0131
+loaded: RM A (pass-through)   in=0132 out=0132
+loaded: RM A (pass-through)   in=0133 out=0133
+loaded: RM A (pass-through)   in=0134 out=0134
+loaded: RM A (pass-through)   in=0135 out=0135
+loaded: RM A (pass-through)   in=0136 out=0136
+loaded: RM A (pass-through)   in=0137 out=0137
+loaded: RM A (pass-through)   in=0138 out=0138
+loaded: RM A (pass-through)   in=0139 out=0139
+loaded: RM A (pass-through)   in=013A out=013A
+loaded: RM A (pass-through)   in=013B out=013B
+loaded: RM A (pass-through)   in=013C out=013C
+loaded: RM A (pass-through)   in=013D out=013D
+loaded: RM A (pass-through)   in=013E out=013E
+loaded: RM A (pass-through)   in=013F out=013F
+loaded: RM A (pass-through)   in=0140 out=0140
+loaded: RM A (pass-through)   in=0141 out=0141
+loaded: RM A (pass-through)   in=0142 out=0142
+loaded: RM A (pass-through)   in=0143 out=0143
+loaded: RM A (pass-through)   in=0144 out=0144
+loaded: RM A (pass-through)   in=0145 out=0145
+loaded: RM A (pass-through)   in=0146 out=0146
+loaded: RM A (pass-through)   in=0147 out=0147
+loaded: RM A (pass-through)   in=0148 out=0148
+loaded: RM A (pass-through)   in=0149 out=0149
+loaded: RM A (pass-through)   in=014A out=014A
+loaded: RM A (pass-through)   in=014B out=014B
+loaded: RM A (pass-through)   in=014C out=014C
+loaded: RM A (pass-through)   in=014D out=014D
+loaded: RM A (pass-through)   in=014E out=014E
+loaded: RM A (pass-through)   in=014F out=014F
