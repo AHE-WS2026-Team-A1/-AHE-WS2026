@@ -1,0 +1,19 @@
+FreeRTOS I/O controller
+
+> SW0
+unknown command, try help
+> help
+help | led <hex> | sw | seg <hex> | mirror on/off | log [clear] | stats | monitor on/off
+> on the board
+unknown command, try help
+> sw
+switches: 0003
+> seg 1234
+> log
+tick 1095180: switches 0003
+tick 1095140: switches 0001
+2 entries in total
+> stats
+uptime 1196636 ticks, heap free 1560912 bytes (minimum 1560912), log 2 entries
+stack free: n/a (enable INCLUDE_uxTaskGetStackHighWaterMark in the platform)
+>
