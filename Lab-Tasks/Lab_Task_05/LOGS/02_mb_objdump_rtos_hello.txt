@@ -1,0 +1,62 @@
+c:\AHE\ws5>C:\AMDDesignTools\2025.2\Vitis\gnu\microblaze\nt\bin\mb-objdump.exe -h C:\AHE\ws5\rtos_hello\build\rtos_hello.elf
+
+C:\AHE\ws5\rtos_hello\build\rtos_hello.elf:     file format elf32-microblazeel
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .vectors.reset 00000008  00000000  00000000  00000074  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .vectors.sw_exception 00000008  00000008  00000008  0000007c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .vectors.interrupt 00000008  00000010  00000010  00000084  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  3 .vectors.hw_exception 00000008  00000020  00000020  00000094  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .text         00006ef4  80000000  80000000  000000a0  2**4
+                  CONTENTS, ALLOC, LOAD, CODE
+  5 .init         0000003c  80006ef4  80006ef4  00006f94  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  6 .fini         00000020  80006f30  80006f30  00006fd0  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  7 .ctors        0000000c  80006f50  80006f50  00006ff0  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+  8 .dtors        00000008  80006f5c  80006f5c  00006ffc  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+  9 .drvcfg_sec   000001d4  80006f64  80006f64  00007004  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+ 10 .rodata       00000ab8  80007138  80007138  000071d8  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 11 .sdata2       00000000  80007bf0  80007bf0  00007cea  2**0
+                  CONTENTS
+ 12 .data         0000005a  80007bf0  80007bf0  00007c90  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+ 13 .sdata        00000006  80007c4a  80007c4a  00007cea  2**0
+                  ALLOC
+ 14 .sbss         00000000  80007c50  80007c50  00007cea  2**0
+                  CONTENTS
+ 15 .bss          002004f0  80007c50  80007c50  00007cea  2**2
+                  ALLOC
+ 16 .heap         00000800  80208140  80208140  00007cea  2**0
+                  ALLOC
+ 17 .stack        00000400  80208940  80208940  00007cea  2**0
+                  ALLOC
+ 18 .debug_line   0001b8b5  00000000  00000000  00007cea  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 19 .debug_line_str 00001749  00000000  00000000  0002359f  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 20 .debug_info   000128bf  00000000  00000000  00024ce8  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 21 .debug_abbrev 00004283  00000000  00000000  000375a7  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 22 .debug_aranges 00000bb8  00000000  00000000  0003b830  2**3
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 23 .debug_str    00014f4e  00000000  00000000  0003c3e8  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 24 .debug_rnglists 00001857  00000000  00000000  00051336  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 25 .debug_frame  000021f8  00000000  00000000  00052b90  2**2
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 26 .debug_macro  0000312d  00000000  00000000  00054d88  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+ 27 .debug_loclists 0000919d  00000000  00000000  00057eb5  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
